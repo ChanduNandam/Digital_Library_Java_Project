@@ -55,7 +55,7 @@ The purpose of this assignment is to:
 
 1. **Clone the Repository:**
    ```sh
-   git clone https://github.com/Vaddisaimanikanta/DigitalLibararyBookManagmentSystem.git
+   git clone https://github.com/ChanduNandam/Digital_Library_Java_Project.git
    cd digital-library
    ```
 2. **Configure the Database:**
